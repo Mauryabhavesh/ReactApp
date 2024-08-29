@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## In Ubuntu/Linux
 
-git clone https://github.com/bossOO7/simple_react_app.git \
+git clone https://github.com/Mauryabhavesh/ReactApp.git \
 cd simple_react_app \
 npm install \
 npm start 
